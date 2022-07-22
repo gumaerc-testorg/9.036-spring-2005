@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Visual System in Primates
 uid: c7a505c1-0bc7-f5a1-1f38-916c05926c90
 ---
 Diagrammatic representation of the visual system in primates, showing the visual information processing pathways. (Image by Prof. Peter Schiller.)
-
