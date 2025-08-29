@@ -2,7 +2,7 @@
 content_type: resource
 description: Diagrammatic representation of the visual system in primates, showing
   the visual information processing pathways. (Image by Prof. Peter Schiller.)
-file: /courses/9-036-the-visual-system-spring-2005/c7a505c10bc7f5a11f38916c05926c90_chp_9_036_visual2.jpg
+file: /ol-ocw-studio-app/courses/9-036-the-visual-system-spring-2005/c7a505c10bc7f5a11f38916c05926c90_chp_9_036_visual2.jpg
 file_size: 20714
 file_type: image/jpeg
 image_metadata:
