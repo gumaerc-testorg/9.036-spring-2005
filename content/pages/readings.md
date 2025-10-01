@@ -45,7 +45,7 @@ Introduction to the Visual System and Organization of the Retina: Anatomy and ph
 
 _Preparatory Assignment  
 _  
-Part 1, The Neural Control of Vision, sections I-III in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, sections I-III in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -83,7 +83,7 @@ B. The Striate Cortex: Striate cortex receptive field organization, cytoarchitec
 
 _A. Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section IV in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section IV in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -95,7 +95,7 @@ Hendry, S. H. C., and T. Y. Yoshioka. "A neurochemically distinct third channel 
 
 _B. Preparatory Assignment  
 _  
-Part 1, The Neural Control of Vision, section V in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section V in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading_
 
@@ -141,7 +141,7 @@ Extrastriate Areas: Specificity of areas, single-cell receptive field properties
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section VI in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section VI in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -189,7 +189,7 @@ The ON and OFF Channels and Brightness Perception: The ON and OFF channels and t
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section VII in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section VII in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading_
 
@@ -233,7 +233,7 @@ The Midget and Parasol Systems: Characteristics, connections and functions of th
 
 _Preparatory Assignment  
 _  
-Part 1, The Neural Control of Vision, section VIII in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section VIII in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading_
 
@@ -275,7 +275,7 @@ Adaptation phenomena and the neural mechanisms of visual adaptation
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, sections IX and X in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, sections IX and X in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -335,7 +335,7 @@ Eye Movement Control, Subcortical Structures: Codes for the generation of visual
 
 _Preparatory Assignment_
 
-Part 2, The Neural Control of Visually Guided Eye Movements, sections I and II in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 2, The Neural Control of Visually Guided Eye Movements, sections I and II in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -369,7 +369,7 @@ Eye Movement Control, Cortical Structures: Parallel pathways for the control of 
 
 _Preparatory Assignment_
 
-Part 2, The Neural Control of Visually Guided Eye Movements, sections III and IV in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 2, The Neural Control of Visually Guided Eye Movements, sections III and IV in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading_
 
@@ -407,7 +407,7 @@ Pursuit eye movements
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section XI in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section XI in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading_
 
@@ -457,7 +457,7 @@ Depth Perception: Depth perception and underlying neural mechanisms
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section XII in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section XII in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -509,7 +509,7 @@ Review of the course
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section XIII in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section XIII in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
@@ -553,13 +553,13 @@ Visual Illusions: What illusions can convey about how the brain processes visual
 
 _Preparatory Assignment_
 
-Part 1, The Neural Control of Vision, section XV in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 1, The Neural Control of Vision, section XV in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/new-cognitive-neurosciences-second-edition) Adelson, E. H. "Lightness Perception and Lightness Illusions." Chapter 24 in [_The New Cognitive Neurosciences_](https://mitpress.mit.edu/books/new-cognitive-neurosciences-second-edition). Edited by M. Gazzaniga. 2nd ed. Cambridge, MA: MIT Press, 2000. p. 339-351. ISBN: 0262071959.
+{{% resource_link "943fdb5d-b37c-402a-b41a-cbf508046a9b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Adelson, E. H. "Lightness Perception and Lightness Illusions." Chapter 24 in {{% resource_link "943fdb5d-b37c-402a-b41a-cbf508046a9b" "_The New Cognitive Neurosciences_" %}}. Edited by M. Gazzaniga. 2nd ed. Cambridge, MA: MIT Press, 2000. p. 339-351. ISBN: 0262071959.
 
-Michael Bach's [56 Optical Illusions & Visual Phenomena](http://www.michaelbach.de/ot/) web site.  
+Michael Bach's {{% resource_link "8949083c-9227-4faf-9b7d-70ca56fea94e" "56 Optical Illusions & Visual Phenomena" %}} web site.  
 _  
 Research Reports  
 _  
@@ -589,7 +589,7 @@ Visual Prosthesis: Assessment of the research on visual prosthesis and discussio
 
 _Preparatory Assignment_
 
-Part 3, Visual Prosthesis, sections I thru IV in [The Schiller Lab at MIT](http://web.mit.edu/bcs/schillerlab/research.html).
+Part 3, Visual Prosthesis, sections I thru IV in {{% resource_link "21d010e2-74f3-4a62-bf70-1316a0d1bff4" "The Schiller Lab at MIT" %}}.
 
 _Assigned Reading  
 _  
